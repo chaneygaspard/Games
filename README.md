@@ -1,2 +1,2 @@
-﻿# Projects-Ubudu
+﻿# Games
 Personal game projects
